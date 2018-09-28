@@ -9,7 +9,7 @@ name: Your Name
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/20180925_151230.jpg
+avatar: ./images/20180925_151230.jpg
 #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
