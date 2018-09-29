@@ -1,4 +1,4 @@
 Dual purpose site for learning jekyll and ruby along with being a personal blog hosted with github.
-| Original Source |
-| ------------------------|
+| Original Source(s) | Link | 
+| -------------------| ---- |
 | Apples |
