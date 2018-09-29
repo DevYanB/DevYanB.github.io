@@ -2,4 +2,4 @@ Dual purpose site for learning jekyll and ruby along with being a personal blog 
 
 | Original Source(s) | Link | 
 | -------------------| ---- |
-| Apples |
+| Apples | https://github.com/barryclark/jekyll-now |
