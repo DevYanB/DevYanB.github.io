@@ -1,4 +1,4 @@
-let URL = 'http://127.0.0.1:8000/data.json'; 
+let URL = './hw1_data/data.json'; 
   
 async function fetchData() {
    const response = await fetch(URL); 
