@@ -21,5 +21,5 @@ def rec():
     return render_template('index.html', data=prediction) 
 
 if __name__ == "__main__":
-    app.run()
+    #app.run()
     print("Cognac")
