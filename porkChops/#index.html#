@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<style>
+table,td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Links to Assignments</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <a href="applesauce/index.html">Homework 1</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://devyanbi.pythonanywhere.com/"> Homework 2 </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href=":q~/index.html">Homework 3</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="finalproject.html">Final Project</a>
+    </td>
+  </tr>
+</table>
+
+<p>Homeworks will be added as and when needed.</p>
+
+</body>
+</html>
+
